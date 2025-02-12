@@ -27,13 +27,13 @@ If the gene ID is found in the GTF file, the script prints the corresponding gen
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/bioinformatics-task.git
-cd bioinformatics-task
+git clone https://github.com/YOUR-USERNAME/python_tools.git
+cd python_tools
 ```
 
 ## File Structure
 ```
-bioinformatics-task/
+python_tools/
 │── snatch_name.py  # Main script
 │── README.md       # Documentation
 │── LICENSE         # License file
