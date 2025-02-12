@@ -1,5 +1,4 @@
-# python_tools
-Some tools for wrangling genomics data
+# snatch_name.py
 
 ## Description
 `snatch_name.py` is a simple Python script that extracts the gene name corresponding to a given gene ID from a GTF file. The script reads the file line by line, searching for the provided gene ID and retrieving its associated gene name.
@@ -43,3 +42,29 @@ bioinformatics-task/
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## .gitignore
+```
+__pycache__/
+*.log
+*.csv
+*.tsv
+*.gz
+.DS_Store
+```
+
+## LICENSE
+```
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+(Full MIT license text here...)
+```
